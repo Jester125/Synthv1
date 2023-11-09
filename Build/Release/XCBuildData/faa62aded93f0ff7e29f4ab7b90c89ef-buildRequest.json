@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "81a47fd24e0c41c482ddb7b71e284cc4ad7bb8b5ee3395bdfeb2a55cd5462f0c"
+    }
+  ],
+  "containerPath" : "/Volumes/500GB/Uni/year2/APDI/MySynth copy/MySynth copy/MySynth.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Volumes/500GB/Uni/year2/APDI/MySynth copy/MySynth copy/DerivedData",
+      "indexDataStoreFolderPath" : "/Volumes/500GB/Uni/year2/APDI/MySynth copy/MySynth copy/DerivedData/MySynth/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/500GB/Uni/year2/APDI/MySynth copy/MySynth copy/DerivedData/MySynth/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

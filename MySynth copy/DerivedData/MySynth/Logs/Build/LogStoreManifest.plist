@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AF84C1BD-E494-4982-842A-090C143DF2DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF84C1BD-E494-4982-842A-090C143DF2DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MySynth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MySynth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MySynth</string>
+			<key>timeStartedRecording</key>
+			<real>721231850.15660203</real>
+			<key>timeStoppedRecording</key>
+			<real>721231850.18854904</real>
+			<key>title</key>
+			<string>Build MySynth</string>
+			<key>uniqueIdentifier</key>
+			<string>AF84C1BD-E494-4982-842A-090C143DF2DF</string>
+		</dict>
+		<key>DD53712C-553F-4D67-9755-C41D4870F947</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD53712C-553F-4D67-9755-C41D4870F947.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MySynth project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MySynth</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MySynth</string>
+			<key>timeStartedRecording</key>
+			<real>721232037.78412199</real>
+			<key>timeStoppedRecording</key>
+			<real>721232051.19950497</real>
+			<key>title</key>
+			<string>Build MySynth</string>
+			<key>uniqueIdentifier</key>
+			<string>DD53712C-553F-4D67-9755-C41D4870F947</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

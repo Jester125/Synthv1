@@ -1,0 +1,117 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United Kingdom) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+BACKGROUND.PNG          PNG                     "resources\\background.png"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+SOUND00.WAV             WAVE                    "resources\\sounds\\Sound00.wav"
+
+SOUND01.WAV             WAVE                    "resources\\sounds\\Sound01.wav"
+
+SOUND02.WAV             WAVE                    "resources\\sounds\\Sound02.wav"
+
+SOUND03.WAV             WAVE                    "resources\\sounds\\Sound03.wav"
+
+SOUND04.WAV             WAVE                    "resources\\sounds\\Sound04.wav"
+
+SOUND05.WAV             WAVE                    "resources\\sounds\\Sound05.wav"
+
+SOUND06.WAV             WAVE                    "resources\\sounds\\Sound06.wav"
+
+SOUND07.WAV             WAVE                    "resources\\sounds\\Sound07.wav"
+
+SOUND08.WAV             WAVE                    "resources\\sounds\\Sound08.wav"
+
+SOUND09.WAV             WAVE                    "resources\\sounds\\Sound09.wav"
+
+SOUND10.WAV             WAVE                    "resources\\sounds\\Sound10.wav"
+
+SOUND11.WAV             WAVE                    "resources\\sounds\\Sound11.wav"
+
+SOUND12.WAV             WAVE                    "resources\\sounds\\Sound12.wav"
+
+SOUND13.WAV             WAVE                    "resources\\sounds\\Sound13.wav"
+
+SOUND14.WAV             WAVE                    "resources\\sounds\\Sound14.wav"
+
+SOUND15.WAV             WAVE                    "resources\\sounds\\Sound15.wav"
+
+#endif    // English (United Kingdom) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
